@@ -1,0 +1,6 @@
+{
+  "name": "Openween",
+  "tagline": "简洁专一的第三方微博客户端",
+  "body": "#是什么\r\nOpenWeen是一款完全开源的第三方微博客户端，目前已登陆Windows&Android平台，iOS平台仍在计划中\r\n#为什么\r\n一款好的产品，必须要保持简单专注。Airbnb不会告诉你现在天气如何，Amazon不能让你查看附近的有钱人，Booking不能让你直播入住，Google不会给你推送八卦广告，Pixiv不会问你今天有没有跑一万步。做好一个原原本本的微博客户端，保持产品的简洁专一，是OpenWeen所追求的目标。keep it simple, make it happen\r\n#下载\r\n[Windows 10](https://www.microsoft.com/store/apps/9nblggh4qr41)  \r\n[Android](https://github.com/OpenWeen/OpenWeen.Droid/releases)\r\n#支持&联系\r\n欢迎改进建议&PR\r\ntlaster@outlook.com",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
